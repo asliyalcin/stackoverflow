@@ -1,10 +1,10 @@
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
+1. [Installation](#installation)(libraries that used in this repo)
+2. [Project Motivation](#motivation) (why you did this project, what was your motivation and goals)
+3. [File Descriptions](#files)(for example code files, data sets)
+4. [Results](#results)(project results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
